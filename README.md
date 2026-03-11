@@ -2,9 +2,6 @@
 End-to-end analysis of customer behavior patterns using Python and SQL to drive data-informed business decisions. Visualized in Power BI.
 
 
-Here is a professional, clean, and recruiter-friendly `README.md` template. It is structured to showcase your full end-to-end technical workflow—from raw data to a finished dashboard and presentation.
-
----
 
 # Customer Shopping Behavior Analysis 📊
 
